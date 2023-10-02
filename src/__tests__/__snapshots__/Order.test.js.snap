@@ -1,0 +1,226 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Order component should render Order component 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        style="background: gray;"
+      >
+        <nav
+          class="DivPadding"
+          style="display: flex; gap: 8px; width: 100vw;"
+        >
+          <a
+            aria-current="page"
+            class="Nav active"
+            href="/"
+          >
+            Home
+          </a>
+          <a
+            class="Nav"
+            href="/About"
+          >
+            About
+          </a>
+          <a
+            class="Nav"
+            href="/Order"
+          >
+            Order
+          </a>
+          <a
+            aria-current="page"
+            class="Nav active"
+            href="/"
+          >
+            Log out
+          </a>
+        </nav>
+        <div
+          style="background: gray; width: 100vw; height: 100vh; box-sizing: border-box;"
+        >
+          <div
+            class="background DivPadding"
+            style="display: flex; flex-wrap: wrap; gap: 9px;"
+          >
+            <div
+              style="display: flex; width: 100vw; height: 100vh; justify-content: center; align-items: center; font-size: 25px;"
+            >
+              Загрузка
+            </div>
+          </div>
+          <div
+            class="background"
+          >
+             
+            Total Quanity:
+             
+            <b>
+              0
+            </b>
+          </div>
+          <div
+            class="background"
+          >
+             
+            Total Price:
+             
+            <b
+              data-testid="total"
+            >
+              0
+            </b>
+          </div>
+          <div
+            class="background DivPadding"
+          >
+            <button
+              class="Buttons"
+              type="button"
+            >
+              Send order
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      style="background: gray;"
+    >
+      <nav
+        class="DivPadding"
+        style="display: flex; gap: 8px; width: 100vw;"
+      >
+        <a
+          aria-current="page"
+          class="Nav active"
+          href="/"
+        >
+          Home
+        </a>
+        <a
+          class="Nav"
+          href="/About"
+        >
+          About
+        </a>
+        <a
+          class="Nav"
+          href="/Order"
+        >
+          Order
+        </a>
+        <a
+          aria-current="page"
+          class="Nav active"
+          href="/"
+        >
+          Log out
+        </a>
+      </nav>
+      <div
+        style="background: gray; width: 100vw; height: 100vh; box-sizing: border-box;"
+      >
+        <div
+          class="background DivPadding"
+          style="display: flex; flex-wrap: wrap; gap: 9px;"
+        >
+          <div
+            style="display: flex; width: 100vw; height: 100vh; justify-content: center; align-items: center; font-size: 25px;"
+          >
+            Загрузка
+          </div>
+        </div>
+        <div
+          class="background"
+        >
+           
+          Total Quanity:
+           
+          <b>
+            0
+          </b>
+        </div>
+        <div
+          class="background"
+        >
+           
+          Total Price:
+           
+          <b
+            data-testid="total"
+          >
+            0
+          </b>
+        </div>
+        <div
+          class="background DivPadding"
+        >
+          <button
+            class="Buttons"
+            type="button"
+          >
+            Send order
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

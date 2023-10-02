@@ -1,0 +1,27 @@
+.FlexDivColumn {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+
+}
+.background{
+    background-color: grey;
+    
+}
+.DivPadding {
+    padding: 8px;
+}
+.Buttons {
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(20, 209, 174)
+
+}
+.Nav{
+    text-decoration: none;
+    color: rgb(20, 209, 174);
+    -webkit-text-stroke: 0.13px #0d0d0d;
+
+}
