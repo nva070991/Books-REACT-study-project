@@ -8,6 +8,7 @@ JavaScript;
 React;
 
 Hooks: UseState, UseEffect, useContext;
+
 Functional component;
 React Router;
 NavLink;
