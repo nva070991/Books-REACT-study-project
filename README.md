@@ -1,4 +1,5 @@
 Корзина онлайн магазина книг
+Start - npm start
 
 ![Alt text](image.png)
 
